@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SubmissionsSJ</string>
+    <string name="heroes_name">University Name</string>
+    <string name="detail">Details</string>
+    <string name="imageLogo">imageLogo</string>
+    <string name="read_more">more</string>
+    <string name="share">Share</string>
+    <string name="about_me">About Me</string>
+    <string name="nama">Nama</string>
+    <string name="my_name">Joko Saputro</string>
+    <string name="email">Email</string>
+    <string name="my_email">jokosaputro616@gmail.com</string>
+    <string name="contact">Kontak</string>
+    <string name="my_contact">+6281212******</string>
+    <string name="status_pt">Status PT</string>
+    <string name="peringkat_pt">Peringkat PT</string>
+    <string name="status_perguruan_tinggi">Status Perguruan Tinggi</string>
+    <string name="deskripsi">Deskripsi</string>
+</resources>
